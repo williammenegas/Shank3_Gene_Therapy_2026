@@ -1,0 +1,7 @@
+SWDs* (episodes/hr)
+*spike-wave discharge
+
+
+EEG1A-B: Parietal - Reference
+EEG2A-B: Frontal - Reference
+The Pinnacle EEG system is configured with separate reference and ground electrodes.

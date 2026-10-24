@@ -1,0 +1,7 @@
+contrast,AUROC_median,IQR_lo,IQR_hi,n_repeats,null_p5,null_p95
+WT vs SH (all),0.9706,0.9683,0.9751,200,0.2715,0.7015
+WT vs SH (SH n=8),0.9669,0.9596,0.9743,200,0.2243,0.7316
+WT vs GT,0.4246,0.3824,0.4743,200,0.2316,0.7316
+"WT vs GT, shuffled",0.489,0.375,0.5993,2000,nan,nan
+
+empirical_p_WTvsGT_vs_null,0.65117

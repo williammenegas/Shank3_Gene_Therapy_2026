@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.mat  binary
+*.wav  binary
+*.npz  binary
+*.xlsx binary
+*.eps  binary
+*.pdf  binary

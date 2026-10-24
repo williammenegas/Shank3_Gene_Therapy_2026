@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Panel-local caches, rebuilt on demand
+_swd_bank_cache.npz

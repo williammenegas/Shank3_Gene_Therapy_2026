@@ -1,0 +1,11 @@
+guide,chrom,start,mismatchCount,CFD,context,nearest_variant_bp
+guideE,NC_133506.1,115947027,3,0.743,intergenic,46381
+guideE,NC_133508.1,72304727,3,0.643,intergenic,88597
+guideA,NC_133510.1,67103515,4,0.627,intergenic,103980
+guideE,NC_133509.1,14088930,4,0.529,intergenic,148124
+guideA,NC_133523.1,3803092,4,0.517,intron,29405
+guideA,NC_133502.1,211232309,3,0.5,intergenic,13163
+guideE,NC_133523.1,6103971,4,0.497,exon,47654
+guideA,NC_133512.1,68129847,4,0.489,intergenic,26224
+guideE,NC_133502.1,64826705,4,0.457,intron,10460
+guideE,NC_133508.1,28365174,4,0.439,intron,2193

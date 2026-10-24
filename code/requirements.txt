@@ -1,0 +1,19 @@
+# Python dependencies for rendering and assembling the figures.
+# Install with:  pip install -r requirements.txt
+#
+# Versions are lower bounds known to work; newer point releases should work.
+# (Developed against: numpy 2.2, scipy 1.15, matplotlib 3.10, pandas 2.3,
+#  h5py 3.16, pymupdf 1.28.)
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pandas>=2.0
+h5py>=3.8          # v7.3 (HDF5) .mat files
+openpyxl>=3.1      # .xlsx inputs (edfig10 founder lines, sex split, subsets)
+pymupdf>=1.23      # figure assembly (imported as "fitz")
+
+# FONT: the figures are designed in Arial. Install Arial system-wide for the
+# true face (Windows/macOS have it; on Linux use ttf-mscorefonts-installer or
+# fonts-liberation, which is metric-compatible). gtstyle falls back to
+# Liberation Sans automatically and prints a one-line notice if Arial is absent.
